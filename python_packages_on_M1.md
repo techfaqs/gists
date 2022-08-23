@@ -46,3 +46,15 @@ pip3 install -U --no-use-pep517 scikit-learn
 pip install torch
 ```
 
+### PySpark
+
+```
+PYSPARK_HADOOP_VERSION=3 pip install pyspark
+```
+
+### PyArrow
+
+```
+brew install apache-arrow
+pip install pyarrow
+```
